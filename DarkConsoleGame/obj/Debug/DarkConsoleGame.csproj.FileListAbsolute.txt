@@ -1,0 +1,7 @@
+C:\Users\Ryuka\source\repos\csharp\DarkConsoleGame\bin\Debug\DarkConsoleGame.exe.config
+C:\Users\Ryuka\source\repos\csharp\DarkConsoleGame\bin\Debug\DarkConsoleGame.exe
+C:\Users\Ryuka\source\repos\csharp\DarkConsoleGame\bin\Debug\DarkConsoleGame.pdb
+C:\Users\Ryuka\source\repos\csharp\DarkConsoleGame\obj\Debug\DarkConsoleGame.csproj.AssemblyReference.cache
+C:\Users\Ryuka\source\repos\csharp\DarkConsoleGame\obj\Debug\DarkConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Ryuka\source\repos\csharp\DarkConsoleGame\obj\Debug\DarkConsoleGame.exe
+C:\Users\Ryuka\source\repos\csharp\DarkConsoleGame\obj\Debug\DarkConsoleGame.pdb
